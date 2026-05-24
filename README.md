@@ -1,43 +1,58 @@
 # Teaching Notes
 
+
 Things I have taught, explained, built, demonstrated, or dragged into a room so people could understand them better.
 
-Practical teaching materials from kitchens, studios, classrooms, conference rooms, community spaces, and the occasional pile of wires that seemed like a good idea at the time.
+Practical teaching materials from kitchens, studios, conference rooms, community spaces, and the occasional room where the real job was helping people stop being intimidated by the thing in front of them.
 
-I have taught in a lot of places: cooking schools, private kitchens, glass studios, volunteer spaces, technical teams, wine rooms, Burning Man-adjacent infrastructure, and rooms where the real job was less "deliver content" and more "help people stop being intimidated by the thing in front of them."
+This is the shelf for classes, talks, handouts, and demonstrations that do not quite belong in a glass repo, a food app repo, or a TPM template repo. The common thread is teaching. Not teaching as performance. Teaching as translation.
 
-This repo is the archive for that work.
-
-Some of it is polished. Some of it is old. Some of it was built for one specific room on one specific day. That is fine. Teaching material does not have to be timeless to be useful. Sometimes the most useful thing is seeing how someone explained the thing when the room was full, the clock was running, and someone in the back had already picked up the wrong knife.
+Some of this material is polished. Some of it is old. Some of it was built for one specific room on one specific day, which is how a lot of useful teaching material gets born. Dates matter. Links rot. Product recommendations age. But the shape of a good explanation often survives longer than the tool list.
 
 ## What Is Here
 
 ### Cooking
 
-Class notes, handouts, and practical instruction from food work.
-
-- `cooking/knife-skills/` - Underground Food Academy knife skills class, January 2009. Knife safety, station setup, chef's knife basics, dice sizes, and exercises.
+- [`cooking/knife-skills/`](cooking/knife-skills/) - Underground Food Academy knife skills class from January 18, 2009. Knife safety, station setup, chef's knife basics, dice sizes, and the small miracle of putting a wet towel under a cutting board before someone discovers physics the hard way.
 
 ### Talks
 
-Presentations, videos, and talk notes.
+- [`talks/pasteurization-boiling-booze-saving-humanity-mostly-by-accident/`](talks/pasteurization-boiling-booze-saving-humanity-mostly-by-accident/) - A Louis Pasteur talk about wine, beer, milk, microbes, pasteurization, vaccines, and the recurring historical pattern where someone tries to solve one practical problem and accidentally changes the world.
 
-- `talks/` - Links and notes from public presentations, including older talks that still have useful bones even if the shirt, slides, or technology may have aged.
+## How This Is Organized
 
-### Projects
+Each teaching item should have its own folder:
 
-Programs and experiments that were partly technical, partly educational, and partly "what happens if we build this and let people interact with it?"
+```text
+area/topic-title/
+|-- README.md
+|-- source/
+|   `-- original-files-go-here
+`-- notes.md, outline.md, handouts/, or whatever the thing actually needs
+```
 
-- `projects/eeg-feedback-machine/` - Notes and artifacts from an earlier EEG feedback machine project.
+The `README.md` tells the story: what the thing was, who it was for, what someone should learn from it, and what needs to be fixed before teaching it again.
+
+The `source/` folder holds the original files. That keeps the artifact intact while letting the repo explain it in plain English.
+
+## Status Labels
+
+Use these lightly. The point is clarity, not bureaucracy.
+
+- **Active** - still useful as-is or close to it.
+- **Working** - useful, but needs cleanup before being handed to people.
+- **Archived** - preserved for history, reference, or reuse, but not current advice without review.
 
 ## A Note on Old Material
 
-Some documents here are preserved as historical artifacts. Dates matter. Links may rot. Product recommendations may age badly. Teaching patterns, safety notes, and the basic shape of an explanation often survive longer than the specific tool list.
+Old teaching material is not embarrassing. It is evidence.
 
-So read accordingly.
+The knife skills handout still has useful bones: stay safe, set up your station, hold the knife well, keep the board stable, practice the cuts. The equipment links and product recommendations are old enough that they should be checked before anyone treats them as current buying advice.
 
-A sharp knife is still safer than a dull one.
+The Pasteur talk has a strong story and a good room-energy premise. It also has claims that deserve a source pass before being used in a formal science or history setting. Comedy and accuracy can live in the same room, but only if accuracy gets its own chair.
 
-A moving cutting board is still bad.
+## What Is Not Here Yet
 
-And people still learn better when the person teaching them remembers what it felt like not to know yet.
+Earlier projects like the EEG feedback machine can live here later if there are notes, photos, diagrams, or enough story to make the artifact useful. For now, this repo starts with teaching materials that already have source files and a clear path into folders.
+
+That is enough. Start with the shelf you can actually label.
