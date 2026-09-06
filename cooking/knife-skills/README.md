@@ -16,8 +16,8 @@ The basics are still the right basics:
 
 - Carry the knife safely, blade down and back, and say "knife" when passing behind someone.
 - Do not catch a falling knife. Your fingers and toes are more expensive than the knife. Let gravity finish its little speech.
-- Keep the knife parallel to the edge of the table when it is not in use.
-- Put a wet cloth under the cutting board so the board does not skate around the table.
+- Keep the knife parallel to the edge of the table when it's not in use.
+- Put a wet cloth under the cutting board so the board doesn't skate around the table.
 - Set up containers before you start chopping, because future-you deserves fewer tiny piles of onion on the counter.
 - Use a pinch grip near the bolster, not a death grip on the handle.
 - Keep the knife in contact with the board and use the forward-down, back-again motion for control.
@@ -35,13 +35,13 @@ Focus on how people move through the kitchen, where the knife rests when not in 
 
 ### 2. Station Setup
 
-A stable cutting board, enough room, containers nearby, and the right knife for the task are not niceties. They are the difference between cooking and chasing celery across a table.
+A stable cutting board, enough room, containers nearby, and the right knife for the task aren't niceties. They're the difference between cooking and chasing celery across a table.
 
 This is also where mise en place belongs. The original handout defines it as getting everything together and putting it where you can reach it before you start. That is still the good answer.
 
 ### 3. The Chef's Knife
 
-The handout explains the parts of the knife and the basic pinch grip. The important teaching point is fit. If a knife is not comfortable in the student's hand, try another knife. The best knife is the one the student can control safely.
+The handout explains the parts of the knife and the basic pinch grip. The important teaching point is fit. If a knife isn't comfortable in the student's hand, try another knife. The best knife is the one the student can control safely.
 
 ### 4. Cutting Motion
 
@@ -69,4 +69,4 @@ The original class exercises are very practical: celery, onion, carrot, mushroom
 
 Update the equipment links and product recommendations. They were useful in 2009, but knife-buying advice ages faster than knife technique.
 
-Also, decide whether this is a historical archive or a refreshed class. If it becomes a refreshed class, add photos or short videos of the grip, board setup, scraping with the spine, and the cutting motion. Those are the moments where people nod in class and then forget the second they are alone with an onion.
+Also, decide whether this is a historical archive or a refreshed class. If it becomes a refreshed class, add photos or short videos of the grip, board setup, scraping with the spine, and the cutting motion. Those are the moments where people nod in class and then forget the second they're alone with an onion.

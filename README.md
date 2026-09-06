@@ -1,11 +1,11 @@
 # Teaching Notes
 
 
-Things I have taught, explained, built, demonstrated, or dragged into a room so people could understand them better.
+Things I've taught, explained, built, demonstrated, or dragged into a room so people could understand them better.
 
 Practical teaching materials from kitchens, studios, conference rooms, community spaces, and the occasional room where the real job was helping people stop being intimidated by the thing in front of them.
 
-This is the shelf for classes, talks, handouts, and demonstrations that do not quite belong in a glass repo, a food app repo, or a TPM template repo. The common thread is teaching. Not teaching as performance. Teaching as translation.
+This is the shelf for classes, talks, handouts, and demonstrations that don't quite belong in a glass repo, a food app repo, or a TPM template repo. The common thread is teaching. Not teaching as performance. Teaching as translation.
 
 Some of this material is polished. Some of it is old. Some of it was built for one specific room on one specific day, which is how a lot of useful teaching material gets born. Dates matter. Links rot. Product recommendations age. But the shape of a good explanation often survives longer than the tool list.
 

@@ -16,7 +16,7 @@ Curious adults, wine people, food people, science-history people, and anyone who
 
 Pasteur did not begin with a plan to transform public health. He began with fermentation and spoilage. Wine and beer were economically important. Spoilage had consequences. Once he showed that specific microorganisms caused specific changes, heating became more than kitchen folklore. It became a process.
 
-That is the teaching moment: explanation turns a trick into a tool.
+That's the teaching moment: explanation turns a trick into a tool.
 
 ## Beats
 
@@ -55,9 +55,9 @@ This is where a refreshed version should include a small sourced table with time
 
 ### 7. Vaccines And The Polished Legend Problem
 
-The chicken cholera story is useful because it is memorable. It is also useful because the polished version and the patched version can sit next to each other.
+The chicken cholera story is useful because it is memorable. It's also useful because the polished version and the patched version can sit next to each other.
 
-Good teaching moment: science history is not less interesting when it gets more complicated.
+Good teaching moment: science history isn't less interesting when it gets more complicated.
 
 ### 8. Pasteur The Human Being
 

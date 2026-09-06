@@ -18,7 +18,7 @@ That does not mean the talk is wrong. It means the talk was built to work in a r
 
 ## Presenter Voice To Label Clearly
 
-These lines are useful on stage, but should not be mistaken for historical quotations:
+These lines are useful on stage, but shouldn't be mistaken for historical quotations:
 
 - "Hold my petri dish."
 - "Science by procrastination."
@@ -26,7 +26,7 @@ These lines are useful on stage, but should not be mistaken for historical quota
 - "French chemist with a microscope and an attitude problem."
 - "The porcelain gods."
 
-The jokes help people remember the point. Just make sure the joke and the citation are not wearing the same hat.
+The jokes help people remember the point. Just make sure the joke and the citation aren't wearing the same hat.
 
 ## Useful Final Slide Structure
 

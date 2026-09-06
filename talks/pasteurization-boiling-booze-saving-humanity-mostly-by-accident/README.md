@@ -7,7 +7,7 @@
 **Google Slides:** <https://docs.google.com/presentation/d/1kO5oHPlkZPzvbZikX1EyHa8ak-eruFCD1Z5UHvRhtkM/edit>  
 **Source deck:** [`source/pasteurization-boiling-booze-saving-humanity-mostly-by-accident.pptx`](source/pasteurization-boiling-booze-saving-humanity-mostly-by-accident.pptx)
 
-This is a talk about Louis Pasteur, but really it is about a recurring human pattern: someone tries to solve a practical problem, does enough careful looking, and accidentally opens a door much larger than the one they meant to walk through.
+This is a talk about Louis Pasteur, but really it's about a recurring human pattern: someone tries to solve a practical problem, does enough careful looking, and accidentally opens a door much larger than the one they meant to walk through.
 
 Pasteur was trying to help with wine spoilage. The bigger story ends up running through fermentation, microbes, pasteurization, food safety, vaccines, scientific credit, public health, industrial process, and brunch. Because history is apparently incapable of staying in its lane.
 
@@ -15,7 +15,7 @@ Pasteur was trying to help with wine spoilage. The bigger story ends up running 
 
 He was not trying to save humanity. He was trying to save wine.
 
-But once you understand that spoilage is not bad vibes, bad air, or the universe being rude to a barrel, the whole system changes. You can identify microorganisms. You can use controlled heat. You can standardize time and temperature. You can make trade safer. You can make milk less terrifying. You can start thinking about disease differently.
+But once you understand that spoilage isn't bad vibes, bad air, or the universe being rude to a barrel, the whole system changes. You can identify microorganisms. You can use controlled heat. You can standardize time and temperature. You can make trade safer. You can make milk less terrifying. You can start thinking about disease differently.
 
 Not bad for a French chemist with a microscope and an attitude problem.
 
@@ -37,7 +37,7 @@ Not bad for a French chemist with a microscope and an attitude problem.
 
 The frame works. Start with wine. Keep the audience in the room with booze, microbes, and food safety. Then walk them into germ theory and vaccines before they realize they have been tricked into learning history of science.
 
-The humor also works because it is not separate from the explanation. It is the handle on the explanation.
+The humor also works because it's not separate from the explanation. It is the handle on the explanation.
 
 ## Before Presenting This Again
 
