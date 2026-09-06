@@ -56,3 +56,8 @@ The Pasteur talk has a strong story and a good room-energy premise. It also has 
 Earlier projects like the EEG feedback machine can live here later if there are notes, photos, diagrams, or enough story to make the artifact useful. For now, this repo starts with teaching materials that already have source files and a clear path into folders.
 
 That is enough. Start with the shelf you can actually label.
+
+## License
+
+Copyright (c) 2026 Eric White. Licensed under [CC BY 4.0](LICENSE): use it, adapt it, put it to
+work in your own program. Credit is the only condition.
