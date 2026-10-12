@@ -61,12 +61,14 @@ Classic sizes from the handout:
 | Large dice | 3/4 inch square |
 | Cube | Greater than 3/4 inch square |
 
+The table is the 2009 handout as written. Most current references give medium dice as 1/2 inch.
+
 ### 6. Practice
 
 The original class exercises are very practical: celery, onion, carrot, mushrooms, potato, citrus, green pepper. This is the right mix because the student gets repetition across shapes, textures, skin, and resistance.
 
 ## Before Teaching This Again
 
-Update the equipment links and product recommendations. They were useful in 2009, but knife-buying advice ages faster than knife technique.
+Update the equipment links and product recommendations. They were useful in 2009, but knife-buying advice ages faster than knife technique. Check the dice table against a current culinary reference too.
 
 Also, decide whether this is a historical archive or a refreshed class. If it becomes a refreshed class, add photos or short videos of the grip, board setup, scraping with the spine, and the cutting motion. Those are the moments where people nod in class and then forget the second they're alone with an onion.
