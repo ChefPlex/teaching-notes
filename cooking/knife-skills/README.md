@@ -3,8 +3,8 @@
 **Original class:** Underground Food Academy Knife Skills  
 **Date:** January 18, 2009  
 **Instructor:** Eric White  
-**Status:** Archived working reference  
-**Source:** [`source/20090113_KnifeSkills.pdf`](source/20090113_KnifeSkills.pdf)
+**Status:** Archived  
+**Source:** [`source/20090113_KnifeSkills.pdf`](source/20090113_KnifeSkills.pdf) (the file name carries January 13; the class date printed on the handout is January 18)
 
 A knife skills class is really a confidence class with sharper consequences.
 

@@ -19,6 +19,10 @@ Some of this material is polished. Some of it is old. Some of it was built for o
 
 - [`talks/pasteurization-boiling-booze-saving-humanity-mostly-by-accident/`](talks/pasteurization-boiling-booze-saving-humanity-mostly-by-accident/) - A Louis Pasteur talk about wine, beer, milk, microbes, pasteurization, vaccines, and the recurring historical pattern where someone tries to solve one practical problem and accidentally changes the world.
 
+### Elsewhere
+
+- [`learning-notes/year-up/`](https://github.com/ChefPlex/learning-notes/tree/main/year-up) - Year Up ProSkills and Project Prep decks, including the Thanksgiving deck. They live with the career-changer PM notes they grew into.
+
 ## How This Is Organized
 
 Each teaching item should have its own folder:
@@ -34,6 +38,8 @@ area/topic-title/
 The `README.md` tells the story: what the thing was, who it was for, what someone should learn from it, and what needs to be fixed before teaching it again.
 
 The `source/` folder holds the original files. That keeps the artifact intact while letting the repo explain it in plain English.
+
+To start a new item, copy [`templates/teaching-item-template.md`](templates/teaching-item-template.md).
 
 ## Status Labels
 

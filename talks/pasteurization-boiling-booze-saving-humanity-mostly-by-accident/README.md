@@ -2,7 +2,7 @@
 
 **Format:** Talk / slide presentation  
 **Presenter:** Eric White  
-**Status:** Working archive  
+**Status:** Working  
 **Video:** <https://www.youtube.com/watch?v=K5QG9oQy11k>  
 **Google Slides:** <https://docs.google.com/presentation/d/1kO5oHPlkZPzvbZikX1EyHa8ak-eruFCD1Z5UHvRhtkM/edit>  
 **Source deck:** [`source/pasteurization-boiling-booze-saving-humanity-mostly-by-accident.pptx`](source/pasteurization-boiling-booze-saving-humanity-mostly-by-accident.pptx)
@@ -20,6 +20,8 @@ But once you understand that spoilage isn't bad vibes, bad air, or the universe 
 Not bad for a French chemist with a microscope and an attitude problem.
 
 ## Talk Arc
+
+The full outline is in [`outline.md`](outline.md).
 
 1. **The hook** - Louis Pasteur as the person who made it possible to drink wine without playing bacterial roulette.
 2. **France's boozy crisis** - wine and beer were spoiling, exports were suffering, and money tends to make governments suddenly interested in science.

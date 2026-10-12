@@ -25,6 +25,7 @@ These lines are useful on stage, but shouldn't be mistaken for historical quotat
 - "Made brunch mathematically safer."
 - "French chemist with a microscope and an attitude problem."
 - "The porcelain gods."
+- "Before him, every sip was more of a dare than modern drinkers like to admit." Stage hyperbole about the danger of drinking wine, not a historical claim.
 
 The jokes help people remember the point. Just make sure the joke and the citation aren't wearing the same hat.
 
