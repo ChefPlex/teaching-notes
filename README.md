@@ -9,6 +9,17 @@ This is the shelf for classes, talks, handouts, and demonstrations that don't qu
 
 Some of this material is polished. Some of it is old. Some of it was built for one specific room on one specific day, which is how a lot of useful teaching material gets born. Dates matter. Links rot. Product recommendations age. But the shape of a good explanation often survives longer than the tool list.
 
+## Start Here
+
+| If you want to… | Start with | Status |
+|:---|:---|:---|
+| Teach a hands-on class | [Knife skills](cooking/knife-skills/): the structure of a practical class, safety first | **Working**: the teaching shape holds; the equipment links and product picks are from 2009 and need checking |
+| Give a talk that holds a room | [The Pasteur talk](talks/pasteurization-boiling-booze-saving-humanity-mostly-by-accident/outline.md): a story-led outline with a [source checklist](talks/pasteurization-boiling-booze-saving-humanity-mostly-by-accident/source-checklist.md) | **Working**: needs a source pass before a formal science or history setting |
+| Teach program management to career changers | The Year Up decks and the [career-changer PM notes](https://github.com/ChefPlex/learning-notes/blob/main/pm-for-career-changers.md) in learning-notes | **Active** |
+| Add something of your own to this shelf | [The teaching-item template](templates/teaching-item-template.md) | |
+
+The labels are defined under [Status Labels](#status-labels) below.
+
 ## What Is Here
 
 ### Cooking
@@ -67,3 +78,7 @@ That is enough. Start with the shelf you can actually label.
 
 Copyright (c) 2026 Eric White. Licensed under [CC BY 4.0](LICENSE): use it, adapt it, put it to
 work in your own program. Credit is the only condition.
+
+---
+
+**Part of the ChefPlex TPM portfolio** · Status: Active · [I need to… find the right document across all the repositories](https://github.com/ChefPlex/tpm-templates/blob/main/PORTFOLIO-GUIDE.md) · [All repositories](https://github.com/ChefPlex)
