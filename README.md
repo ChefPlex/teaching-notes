@@ -13,7 +13,7 @@ Some of this material is polished. Some of it is old. Some of it was built for o
 
 | If you want to… | Start with | Status |
 |:---|:---|:---|
-| Teach a hands-on class | [Knife skills](cooking/knife-skills/): the structure of a practical class, safety first | **Working**: the teaching shape holds; the equipment links and product picks are from 2009 and need checking |
+| Teach a hands-on class | [Knife skills](cooking/knife-skills/): the structure of a practical class, safety first | **Archived**: taught a long time ago; the teaching shape holds, but the equipment links and product picks are from 2009 |
 | Give a talk that holds a room | [The Pasteur talk](talks/pasteurization-boiling-booze-saving-humanity-mostly-by-accident/outline.md): a story-led outline with a [source checklist](talks/pasteurization-boiling-booze-saving-humanity-mostly-by-accident/source-checklist.md) | **Working**: needs a source pass before a formal science or history setting |
 | Teach program management to career changers | The Year Up decks and the [career-changer PM notes](https://github.com/ChefPlex/learning-notes/blob/main/pm-for-career-changers.md) in learning-notes | **Active** |
 | Add something of your own to this shelf | [The teaching-item template](templates/teaching-item-template.md) | |

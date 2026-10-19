@@ -2,6 +2,8 @@
 
 **Format:** Talk / slide presentation  
 **Presenter:** Eric White  
+**Event:** Curiosity Guild: BRIGHT IDEAS, San Francisco, February 3, 2026, presented as "Pasteurization: A Tipsy Tour Through Saving Humanity"  
+**Audience:** Curiosity Guild's public history talks, for a general audience 21 and over  
 **Status:** Working  
 **Video:** <https://www.youtube.com/watch?v=K5QG9oQy11k>  
 **Google Slides:** <https://docs.google.com/presentation/d/1kO5oHPlkZPzvbZikX1EyHa8ak-eruFCD1Z5UHvRhtkM/edit>  
@@ -58,7 +60,6 @@ The current version is good as a lively talk archive. A refreshed version should
 ## Possible Additions
 
 - Use [`source-checklist.md`](source-checklist.md) before republishing this as formal reference material.
-- Add event name, date, and audience.
 - Add a clean PDF export of the slides.
 - Add a transcript or speaker notes from the video.
 - Add a source bibliography.
