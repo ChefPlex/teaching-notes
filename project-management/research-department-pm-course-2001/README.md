@@ -21,4 +21,4 @@ If the originals turn up, they go in `source/` and this README gets the rest of 
 
 ## Before Teaching This Again
 
-Rebuild it. The software has changed a lot since 2001. For newer project management teaching material of mine, start with the [Year Up decks](https://github.com/ChefPlex/learning-notes/tree/main/year-up) from 2014 to 2018.
+Rebuild it. The software has changed a lot since 2001. For newer project management teaching material of mine, start with the [Year Up decks](../year-up/) from 2014 to 2018.

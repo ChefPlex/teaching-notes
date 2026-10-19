@@ -15,7 +15,7 @@ Some of this material is polished. Some of it is old. Some of it was built for o
 |:---|:---|:---|
 | Teach a hands-on class | [Knife skills](cooking/knife-skills/): the structure of a practical class, safety first | **Archived**: taught a long time ago; the teaching shape holds, but the equipment links and product picks are from 2009 |
 | Give a talk that holds a room | [The Pasteur talk](talks/pasteurization-boiling-booze-saving-humanity-mostly-by-accident/outline.md): a story-led outline with a [source checklist](talks/pasteurization-boiling-booze-saving-humanity-mostly-by-accident/source-checklist.md) | **Working**: needs a source pass before a formal science or history setting |
-| Teach program management to career changers | The Year Up decks and the [career-changer PM notes](https://github.com/ChefPlex/learning-notes/blob/main/pm-for-career-changers.md) in learning-notes | **Active** |
+| Teach program management to career changers | The [Year Up decks](project-management/year-up/), the [career-changer PM course](project-management/pm-for-career-changers.md) and [PM: A Thanksgiving Story](project-management/PM_Thanksgiving_Story.pptx) | **Active** |
 | Add something of your own to this shelf | [The teaching-item template](templates/teaching-item-template.md) | |
 
 The labels are defined under [Status Labels](#status-labels) below.
@@ -32,11 +32,10 @@ The labels are defined under [Status Labels](#status-labels) below.
 
 ### Project Management
 
+- [`project-management/year-up/`](project-management/year-up/) - Year Up ProSkills and Project Prep decks from the Fall 2015 and Fall 2016 cohorts, including the original Thanksgiving deck. I taught at Year Up from October 2014 to December 2018, and designed and taught a project management and LAMP+ elective there (LAMP: Linux, Apache, MySQL, PHP). No material from the LAMP+ side of the elective is on the shelf.
+- [`project-management/pm-for-career-changers.md`](project-management/pm-for-career-changers.md) - A practical PM introduction for people coming in from other fields. The vocabulary, the lifecycle, the skills that actually matter, and how to get your first role, without the jargon. Grew out of the Year Up teaching.
+- [`project-management/PM_Thanksgiving_Story.pptx`](project-management/PM_Thanksgiving_Story.pptx) - PM: A Thanksgiving Story. The Year Up Thanksgiving deck rebuilt as a modern 13-slide presentation: core project management concepts taught through planning Thanksgiving dinner, for a non-practitioner audience.
 - [`project-management/research-department-pm-course-2001/`](project-management/research-department-pm-course-2001/) - A two-part project management course built around Microsoft Project, designed and taught in 2001 for about 30 people in the UCSF neurology department. **Archived.** All that survives is a dated line from an old résumé. The course files are not on the shelf.
-
-### Elsewhere
-
-- [`learning-notes/year-up/`](https://github.com/ChefPlex/learning-notes/tree/main/year-up) - Year Up ProSkills and Project Prep decks from the Fall 2015 and Fall 2016 cohorts, including the Thanksgiving deck. I taught at Year Up from October 2014 to December 2018, and designed and taught a project management and LAMP+ elective there (LAMP: Linux, Apache, MySQL, PHP). The decks live with the career-changer PM notes they grew into. No material from the LAMP+ side of the elective is on either shelf.
 
 ### Archive Notes
 
