@@ -30,9 +30,23 @@ The labels are defined under [Status Labels](#status-labels) below.
 
 - [`talks/pasteurization-boiling-booze-saving-humanity-mostly-by-accident/`](talks/pasteurization-boiling-booze-saving-humanity-mostly-by-accident/) - A Louis Pasteur talk about wine, beer, milk, microbes, pasteurization, vaccines, and the recurring historical pattern where someone tries to solve one practical problem and accidentally changes the world.
 
+### Project Management
+
+- [`project-management/research-department-pm-course-2001/`](project-management/research-department-pm-course-2001/) - A two-part project management course built around Microsoft Project, designed and taught in 2001 for about 30 people in a university neurology department. **Archived.** All that survives is a dated line from an old résumé. The course files are not on the shelf.
+
 ### Elsewhere
 
-- [`learning-notes/year-up/`](https://github.com/ChefPlex/learning-notes/tree/main/year-up) - Year Up ProSkills and Project Prep decks, including the Thanksgiving deck. They live with the career-changer PM notes they grew into.
+- [`learning-notes/year-up/`](https://github.com/ChefPlex/learning-notes/tree/main/year-up) - Year Up ProSkills and Project Prep decks from the Fall 2015 and Fall 2016 cohorts, including the Thanksgiving deck. I taught at Year Up from October 2014 to December 2018, and designed and taught a project management and LAMP+ elective there (LAMP: Linux, Apache, MySQL, PHP). The decks live with the career-changer PM notes they grew into. No material from the LAMP+ side of the elective is on either shelf.
+
+### Archive Notes
+
+Things I taught or presented where only the record survives. One line each, and nothing reconstructed.
+
+| Item | When | What the record says |
+|:---|:---|:---|
+| Risk management courses at Taos, an IBM Company | 2011 to 2018 | Internal courses in risk management for the consulting practice I led. A résumé line; no materials. |
+| *The Art of Glassblowing* (talk) | Not recorded | A talk title from an older profile export. Nothing else survives. |
+| *ABA LRIS Panel: Websites* | Between 2005 and 2009 | An American Bar Association (ABA) Lawyer Referral and Information Service (LRIS) panel on web technology, from my years running IT at the Bar Association of San Francisco. The title and my own recollection; no materials. |
 
 ## How This Is Organized
 
@@ -59,6 +73,7 @@ Use these lightly. The point is clarity, not bureaucracy.
 - **Active** - still useful as-is or close to it.
 - **Working** - useful, but needs cleanup before being handed to people.
 - **Archived** - preserved for history, reference, or reuse, but not current advice without review.
+- **Archive note** - a record that something was taught, with no material on the shelf. It gets a row under [Archive Notes](#archive-notes), not a folder.
 
 ## A Note on Old Material
 
@@ -70,7 +85,7 @@ The Pasteur talk has a strong story and a good room-energy premise. It also has 
 
 ## What Is Not Here Yet
 
-Earlier projects like the EEG feedback machine can live here later if there are notes, photos, diagrams, or enough story to make the artifact useful. For now, this repo starts with teaching materials that already have source files and a clear path into folders.
+Earlier projects like the EEG feedback machine can live here later if there are notes, photos, diagrams, or enough story to make the artifact useful. For now, this repo starts with teaching materials that already have source files and a clear path into folders. The 2001 project management course is the one folder without source files. It gets a folder because I know when it ran, who it was for and why they needed it. The archive notes have less than that, so they get a row each.
 
 That is enough. Start with the shelf you can actually label.
 
