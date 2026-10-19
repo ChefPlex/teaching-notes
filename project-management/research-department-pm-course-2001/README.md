@@ -1,7 +1,7 @@
 # Project Management Course for UCSF Neurology
 
 **Format:** Two-part course  
-**Instructor:** Eric White, through Taos  
+**Instructor:** Eric White  
 **Original date:** 2001  
 **Audience:** About 30 people in the UCSF neurology department  
 **Status:** Archived  
