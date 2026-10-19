@@ -32,7 +32,7 @@ The labels are defined under [Status Labels](#status-labels) below.
 
 ### Project Management
 
-- [`project-management/research-department-pm-course-2001/`](project-management/research-department-pm-course-2001/) - A two-part project management course built around Microsoft Project, designed and taught in 2001 for about 30 people in a university neurology department. **Archived.** All that survives is a dated line from an old résumé. The course files are not on the shelf.
+- [`project-management/research-department-pm-course-2001/`](project-management/research-department-pm-course-2001/) - A two-part project management course built around Microsoft Project, designed and taught through Taos in 2001 for about 30 people in the UCSF neurology department. **Archived.** All that survives is a dated line from an old résumé. The course files are not on the shelf.
 
 ### Elsewhere
 
