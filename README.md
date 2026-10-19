@@ -73,7 +73,6 @@ Use these lightly. The point is clarity, not bureaucracy.
 - **Active** - still useful as-is or close to it.
 - **Working** - useful, but needs cleanup before being handed to people.
 - **Archived** - preserved for history, reference, or reuse, but not current advice without review.
-- **Archive note** - a record that something was taught, with no material on the shelf. It gets a row under [Archive Notes](#archive-notes), not a folder.
 
 ## A Note on Old Material
 
@@ -85,7 +84,7 @@ The Pasteur talk has a strong story and a good room-energy premise. It also has 
 
 ## What Is Not Here Yet
 
-Earlier projects like the EEG feedback machine can live here later if there are notes, photos, diagrams, or enough story to make the artifact useful. For now, this repo starts with teaching materials that already have source files and a clear path into folders. The 2001 project management course is the one folder without source files. It gets a folder because I know when it ran, who it was for and why they needed it. The archive notes have less than that, so they get a row each.
+Earlier projects like the EEG feedback machine can live here later if there are notes, photos, diagrams, or enough story to make the artifact useful. For now, this repo starts with teaching materials that already have source files and a clear path into folders. The 2001 project management course is the one folder without source files.
 
 That is enough. Start with the shelf you can actually label.
 
