@@ -2,7 +2,7 @@
 
 Teaching materials from my time as a teacher and lecturer with [Year Up](https://www.yearup.org), a national nonprofit that provides intensive technical and professional training to young adults from underserved communities. When I taught there, Year Up's model was a one-year program: about six months of technical and professional skills training, then a six-month corporate internship, with the goal of closing the opportunity divide in tech and business careers.
 
-I taught at Year Up in the San Francisco Bay Area from October 2014 to December 2018, and designed, wrote and taught a project management and LAMP+ elective from scratch. The decks here are from the Fall 2015 and Fall 2016 cohorts.
+I taught at Year Up in the San Francisco Bay Area from October 2014 to December 2018, and designed, wrote and taught a project management and LAMP+ elective from scratch. The decks here are from the Fall 2015 and Fall 2016 cohorts. They are built on a Taos slide template for the look and feel; the content is mine.
 
 ---
 
@@ -24,7 +24,7 @@ The Thanksgiving deck was the one that landed best. The premise is simple: plann
 
 Walk through the project planning process using something everyone already has a mental model for, and the concepts land faster than any framework slide ever would.
 
-That deck has been rebuilt as a modern 13-slide presentation, [PM: A Thanksgiving Story](../PM_Thanksgiving_Story.pptx), one folder up. The files here are the originals.
+The seven-step framing follows Wrike's ["A Project Manager's Guide to Surviving Thanksgiving"](https://www.wrike.com/blog/project-managers-guide-to-surviving-thanksgiving/), which the original deck cites. That deck has been rebuilt as a modern 13-slide presentation, [PM: A Thanksgiving Story](../PM_Thanksgiving_Story.pptx), one folder up. The files here are the original decks.
 
 ---
 

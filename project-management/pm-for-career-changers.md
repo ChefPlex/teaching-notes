@@ -44,7 +44,7 @@ Thanksgiving dinner is a project. It has a scope (how many people, what dishes, 
 
 Every PM concept maps onto it cleanly. Walk through all seven steps with Thanksgiving first (scope, plan, timeline, risks, stakeholders, team, retrospective, as the companion deck numbers them), then introduce the vocabulary. By the time you say "critical path," they already know what it means. They just learned it with a turkey.
 
-A companion presentation sits alongside this file: [PM: A Thanksgiving Story](PM_Thanksgiving_Story.pptx).
+A companion presentation sits alongside this file: [PM: A Thanksgiving Story](PM_Thanksgiving_Story.pptx). The seven-step framing is adapted from Wrike's ["A Project Manager's Guide to Surviving Thanksgiving"](https://www.wrike.com/blog/project-managers-guide-to-surviving-thanksgiving/).
 
 ### The Contractor Analogy for the PM Role
 
@@ -236,7 +236,7 @@ Activities that build PM-relevant skills:
 
 ## Source Material
 
-This guide was distilled from five decks taught at Year Up San Francisco through Taos Mountain, 2015-2016. The original presentations are archived in [`year-up/`](year-up/) alongside this file. They're in their original .ppt format and reflect the specific program context - some content will need adjustment for different audiences.
+This guide was distilled from five decks taught at Year Up San Francisco through Taos, 2015-2016. The original presentations are archived in [`year-up/`](year-up/) alongside this file. They're in their original .ppt format and reflect the specific program context - some content will need adjustment for different audiences.
 
 The Thanksgiving deck referenced throughout this guide has been rebuilt as a modern presentation, [PM: A Thanksgiving Story](PM_Thanksgiving_Story.pptx), alongside this file as a standalone teaching resource.
 
