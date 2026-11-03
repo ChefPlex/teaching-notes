@@ -35,7 +35,7 @@ The labels are defined under [Status Labels](#status-labels) below.
 - [`project-management/year-up/`](project-management/year-up/) - Year Up ProSkills and Project Prep decks from the Fall 2015 and Fall 2016 cohorts, including the original Thanksgiving deck. I taught at Year Up from October 2014 to December 2018, and designed and taught a project management and LAMP+ elective there (LAMP: Linux, Apache, MySQL, PHP). No material from the LAMP+ side of the elective is on the shelf.
 - [`project-management/pm-for-career-changers.md`](project-management/pm-for-career-changers.md) - A practical PM introduction for people coming in from other fields. The vocabulary, the lifecycle, the skills that actually matter, and how to get your first role, without the jargon. Grew out of the Year Up teaching.
 - [`project-management/PM_Thanksgiving_Story.pptx`](project-management/PM_Thanksgiving_Story.pptx) - PM: A Thanksgiving Story. The Year Up Thanksgiving deck rebuilt as a modern 13-slide presentation: core project management concepts taught through planning Thanksgiving dinner, for a non-practitioner audience.
-- [`project-management/research-department-pm-course-2001/`](project-management/research-department-pm-course-2001/) - A two-part project management course built around Microsoft Project, designed and taught in 2001 for about 30 people in the UCSF neurology department. **Archived.** All that survives is a dated line from an old résumé. The course files are not on the shelf.
+- [`project-management/research-department-pm-course-2001/`](project-management/research-department-pm-course-2001/) - A two-part project management course built around Microsoft Project, designed and taught early in my career for about 30 people in the UCSF neurology department. **Archived.** All that survives is a dated line from an old résumé. The course files are not on the shelf.
 
 ### Archive Notes
 
@@ -83,7 +83,7 @@ The Pasteur talk has a strong story and a good room-energy premise. It also has 
 
 ## What Is Not Here Yet
 
-Earlier projects like the EEG feedback machine can live here later if there are notes, photos, diagrams, or enough story to make the artifact useful. For now, this repo starts with teaching materials that already have source files and a clear path into folders. The 2001 project management course is the one folder without source files.
+Earlier projects like the EEG feedback machine can live here later if there are notes, photos, diagrams, or enough story to make the artifact useful. For now, this repo starts with teaching materials that already have source files and a clear path into folders. The early project management course is the one folder without source files.
 
 That is enough. Start with the shelf you can actually label.
 

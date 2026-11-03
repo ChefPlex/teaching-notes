@@ -2,7 +2,7 @@
 
 **Format:** Two-part course  
 **Instructor:** Eric White  
-**Original date:** 2001  
+**When:** Early in my career  
 **Audience:** About 30 people in the UCSF neurology department  
 **Status:** Archived  
 **Source files:** None on this shelf
@@ -15,10 +15,10 @@ That's all the record holds. It comes from a résumé I wrote in 2008 and from m
 
 ## What Is Not Here
 
-The course files. I haven't found them, and I am not going to rebuild the outline from memory and call it what was taught in 2001.
+The course files. I haven't found them, and I am not going to rebuild the outline from memory and call it what was taught then.
 
 If the originals turn up, they go in `source/` and this README gets the rest of the [template](../../templates/teaching-item-template.md).
 
 ## Before Teaching This Again
 
-Rebuild it. The software has changed a lot since 2001. For newer project management teaching material of mine, start with the [Year Up decks](../year-up/) from 2014 to 2018.
+Rebuild it. The software has changed a lot since then. For newer project management teaching material of mine, start with the [Year Up decks](../year-up/) from 2014 to 2018.
